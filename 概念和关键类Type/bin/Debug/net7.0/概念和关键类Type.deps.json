@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "概念和关键类Type/1.0.0": {
+        "runtime": {
+          "概念和关键类Type.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "概念和关键类Type/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

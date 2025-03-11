@@ -1,0 +1,15 @@
+F:\unity\TangCourse\C#\进阶\CSharp进阶\CSharp进阶\bin\Debug\net7.0\CSharp进阶.exe
+F:\unity\TangCourse\C#\进阶\CSharp进阶\CSharp进阶\bin\Debug\net7.0\CSharp进阶.deps.json
+F:\unity\TangCourse\C#\进阶\CSharp进阶\CSharp进阶\bin\Debug\net7.0\CSharp进阶.runtimeconfig.json
+F:\unity\TangCourse\C#\进阶\CSharp进阶\CSharp进阶\bin\Debug\net7.0\CSharp进阶.dll
+F:\unity\TangCourse\C#\进阶\CSharp进阶\CSharp进阶\bin\Debug\net7.0\CSharp进阶.pdb
+F:\unity\TangCourse\C#\进阶\CSharp进阶\CSharp进阶\obj\Debug\net7.0\CSharp进阶.csproj.AssemblyReference.cache
+F:\unity\TangCourse\C#\进阶\CSharp进阶\CSharp进阶\obj\Debug\net7.0\CSharp进阶.GeneratedMSBuildEditorConfig.editorconfig
+F:\unity\TangCourse\C#\进阶\CSharp进阶\CSharp进阶\obj\Debug\net7.0\CSharp进阶.AssemblyInfoInputs.cache
+F:\unity\TangCourse\C#\进阶\CSharp进阶\CSharp进阶\obj\Debug\net7.0\CSharp进阶.AssemblyInfo.cs
+F:\unity\TangCourse\C#\进阶\CSharp进阶\CSharp进阶\obj\Debug\net7.0\CSharp进阶.csproj.CoreCompileInputs.cache
+F:\unity\TangCourse\C#\进阶\CSharp进阶\CSharp进阶\obj\Debug\net7.0\CSharp进阶.dll
+F:\unity\TangCourse\C#\进阶\CSharp进阶\CSharp进阶\obj\Debug\net7.0\refint\CSharp进阶.dll
+F:\unity\TangCourse\C#\进阶\CSharp进阶\CSharp进阶\obj\Debug\net7.0\CSharp进阶.pdb
+F:\unity\TangCourse\C#\进阶\CSharp进阶\CSharp进阶\obj\Debug\net7.0\CSharp进阶.genruntimeconfig.cache
+F:\unity\TangCourse\C#\进阶\CSharp进阶\CSharp进阶\obj\Debug\net7.0\ref\CSharp进阶.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "预处理器指令/1.0.0": {
+        "runtime": {
+          "预处理器指令.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "预处理器指令/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
